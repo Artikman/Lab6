@@ -1,0 +1,16 @@
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\bin\Debug\netcoreapp2.1\Lab6.deps.json
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.json
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\bin\Debug\netcoreapp2.1\Lab6.runtimeconfig.dev.json
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\bin\Debug\netcoreapp2.1\Lab6.dll
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.csprojAssemblyReference.cache
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.csproj.CoreCompileInputs.cache
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.RazorAssemblyInfo.cache
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.RazorAssemblyInfo.cs
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfoInputs.cache
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.AssemblyInfo.cs
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.RazorTargetAssemblyInfo.cache
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\bin\Debug\netcoreapp2.1\Lab6.pdb
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\bin\Debug\netcoreapp2.1\Lab6.Views.dll
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.dll
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.pdb
+D:\Лабораторные работы\6 семестр\ИГИ\Лабораторная работа №6\Lab6\Lab6\obj\Debug\netcoreapp2.1\Lab6.csproj.CopyComplete
